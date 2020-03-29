@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/Shareforchrist/static/css/main.3ffadd0a.chunk.css",
+    "main.js": "/Shareforchrist/static/js/main.90399ea4.chunk.js",
+    "main.js.map": "/Shareforchrist/static/js/main.90399ea4.chunk.js.map",
+    "runtime-main.js": "/Shareforchrist/static/js/runtime-main.b3ba27ac.js",
+    "runtime-main.js.map": "/Shareforchrist/static/js/runtime-main.b3ba27ac.js.map",
+    "static/css/2.7d2f2f6a.chunk.css": "/Shareforchrist/static/css/2.7d2f2f6a.chunk.css",
+    "static/js/2.d3f3e1d5.chunk.js": "/Shareforchrist/static/js/2.d3f3e1d5.chunk.js",
+    "static/js/2.d3f3e1d5.chunk.js.map": "/Shareforchrist/static/js/2.d3f3e1d5.chunk.js.map",
+    "index.html": "/Shareforchrist/index.html",
+    "precache-manifest.140d15037c116b12ca7c2045fd0e3542.js": "/Shareforchrist/precache-manifest.140d15037c116b12ca7c2045fd0e3542.js",
+    "service-worker.js": "/Shareforchrist/service-worker.js",
+    "static/css/2.7d2f2f6a.chunk.css.map": "/Shareforchrist/static/css/2.7d2f2f6a.chunk.css.map",
+    "static/css/main.3ffadd0a.chunk.css.map": "/Shareforchrist/static/css/main.3ffadd0a.chunk.css.map",
+    "static/js/2.d3f3e1d5.chunk.js.LICENSE.txt": "/Shareforchrist/static/js/2.d3f3e1d5.chunk.js.LICENSE.txt",
+    "static/media/个人灵修-By Eucalyp.png": "/Shareforchrist/static/media/个人灵修-By Eucalyp.7e14c668.png",
+    "static/media/家庭育儿-By Freepik.png": "/Shareforchrist/static/media/家庭育儿-By Freepik.17a364d2.png",
+    "static/media/数据查询-By DinosoftLabs.png": "/Shareforchrist/static/media/数据查询-By DinosoftLabs.b597abb2.png",
+    "static/media/科普文章-By Smashicons.png": "/Shareforchrist/static/media/科普文章-By Smashicons.13d6f305.png",
+    "static/media/问诊平台-By Good Ware.png": "/Shareforchrist/static/media/问诊平台-By Good Ware.4a9e82fa.png",
+    "static/media/防疫手册-By Smashicons.png": "/Shareforchrist/static/media/防疫手册-By Smashicons.2c49edfe.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b3ba27ac.js",
+    "static/css/2.7d2f2f6a.chunk.css",
+    "static/js/2.d3f3e1d5.chunk.js",
+    "static/css/main.3ffadd0a.chunk.css",
+    "static/js/main.90399ea4.chunk.js"
+  ]
+}
