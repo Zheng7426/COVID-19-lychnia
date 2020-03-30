@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "edef8556c49dd73ad90976ab74f2dbf8",
+    "revision": "8de77f38ff5fe4ab2013a48fdcedfddb",
     "url": "/Shareforchrist/index.html"
   },
   {
-    "revision": "743e7960d38bc4865611",
+    "revision": "88befba872738edd50f0",
     "url": "/Shareforchrist/static/css/2.7d2f2f6a.chunk.css"
   },
   {
-    "revision": "9142cb9ffe04e7bdb83a",
-    "url": "/Shareforchrist/static/css/main.3ffadd0a.chunk.css"
+    "revision": "39a5703b5fc88344071c",
+    "url": "/Shareforchrist/static/css/main.deb0f86f.chunk.css"
   },
   {
-    "revision": "743e7960d38bc4865611",
-    "url": "/Shareforchrist/static/js/2.9d74ba56.chunk.js"
+    "revision": "88befba872738edd50f0",
+    "url": "/Shareforchrist/static/js/2.1abd7971.chunk.js"
   },
   {
     "revision": "56729d980da09961afe8d497a21eec12",
-    "url": "/Shareforchrist/static/js/2.9d74ba56.chunk.js.LICENSE.txt"
+    "url": "/Shareforchrist/static/js/2.1abd7971.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "9142cb9ffe04e7bdb83a",
-    "url": "/Shareforchrist/static/js/main.856126e2.chunk.js"
+    "revision": "39a5703b5fc88344071c",
+    "url": "/Shareforchrist/static/js/main.bd05cdd8.chunk.js"
   },
   {
     "revision": "c89b9c91c2df782ef6bb",
