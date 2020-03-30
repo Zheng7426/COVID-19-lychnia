@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/Shareforchrist/static/css/main.deb0f86f.chunk.css",
-    "main.js": "/Shareforchrist/static/js/main.5155153f.chunk.js",
-    "main.js.map": "/Shareforchrist/static/js/main.5155153f.chunk.js.map",
+    "main.css": "/Shareforchrist/static/css/main.0f51f51c.chunk.css",
+    "main.js": "/Shareforchrist/static/js/main.595db7fd.chunk.js",
+    "main.js.map": "/Shareforchrist/static/js/main.595db7fd.chunk.js.map",
     "runtime-main.js": "/Shareforchrist/static/js/runtime-main.b3ba27ac.js",
     "runtime-main.js.map": "/Shareforchrist/static/js/runtime-main.b3ba27ac.js.map",
     "static/css/2.7d2f2f6a.chunk.css": "/Shareforchrist/static/css/2.7d2f2f6a.chunk.css",
-    "static/js/2.218880b8.chunk.js": "/Shareforchrist/static/js/2.218880b8.chunk.js",
-    "static/js/2.218880b8.chunk.js.map": "/Shareforchrist/static/js/2.218880b8.chunk.js.map",
+    "static/js/2.89496e6d.chunk.js": "/Shareforchrist/static/js/2.89496e6d.chunk.js",
+    "static/js/2.89496e6d.chunk.js.map": "/Shareforchrist/static/js/2.89496e6d.chunk.js.map",
     "index.html": "/Shareforchrist/index.html",
-    "precache-manifest.860675b94dd9fb65b15394f1832a25d3.js": "/Shareforchrist/precache-manifest.860675b94dd9fb65b15394f1832a25d3.js",
+    "precache-manifest.e884dceb7b493878b49f04c7a211812e.js": "/Shareforchrist/precache-manifest.e884dceb7b493878b49f04c7a211812e.js",
     "service-worker.js": "/Shareforchrist/service-worker.js",
     "static/css/2.7d2f2f6a.chunk.css.map": "/Shareforchrist/static/css/2.7d2f2f6a.chunk.css.map",
-    "static/css/main.deb0f86f.chunk.css.map": "/Shareforchrist/static/css/main.deb0f86f.chunk.css.map",
-    "static/js/2.218880b8.chunk.js.LICENSE.txt": "/Shareforchrist/static/js/2.218880b8.chunk.js.LICENSE.txt",
+    "static/css/main.0f51f51c.chunk.css.map": "/Shareforchrist/static/css/main.0f51f51c.chunk.css.map",
+    "static/js/2.89496e6d.chunk.js.LICENSE.txt": "/Shareforchrist/static/js/2.89496e6d.chunk.js.LICENSE.txt",
     "static/media/个人灵修-By Eucalyp.png": "/Shareforchrist/static/media/个人灵修-By Eucalyp.7e14c668.png",
     "static/media/家庭育儿-By Freepik.png": "/Shareforchrist/static/media/家庭育儿-By Freepik.17a364d2.png",
     "static/media/数据查询-By DinosoftLabs.png": "/Shareforchrist/static/media/数据查询-By DinosoftLabs.b597abb2.png",
@@ -24,8 +24,8 @@
   "entrypoints": [
     "static/js/runtime-main.b3ba27ac.js",
     "static/css/2.7d2f2f6a.chunk.css",
-    "static/js/2.218880b8.chunk.js",
-    "static/css/main.deb0f86f.chunk.css",
-    "static/js/main.5155153f.chunk.js"
+    "static/js/2.89496e6d.chunk.js",
+    "static/css/main.0f51f51c.chunk.css",
+    "static/js/main.595db7fd.chunk.js"
   ]
 }
