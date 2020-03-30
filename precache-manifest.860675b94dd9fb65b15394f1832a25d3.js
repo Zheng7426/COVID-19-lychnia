@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d382bf729f4fcd74e9415b5900816c57",
+    "revision": "67805bcd3a23cd7c24085e1ee4db6114",
     "url": "/Shareforchrist/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Shareforchrist/static/css/2.7d2f2f6a.chunk.css"
   },
   {
-    "revision": "8be76a8820c08e871e13",
+    "revision": "ed6246c234d6b07ae4cf",
     "url": "/Shareforchrist/static/css/main.deb0f86f.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Shareforchrist/static/js/2.218880b8.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "8be76a8820c08e871e13",
-    "url": "/Shareforchrist/static/js/main.d4b2e6eb.chunk.js"
+    "revision": "ed6246c234d6b07ae4cf",
+    "url": "/Shareforchrist/static/js/main.5155153f.chunk.js"
   },
   {
     "revision": "c89b9c91c2df782ef6bb",
