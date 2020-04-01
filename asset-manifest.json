@@ -1,31 +1,31 @@
 {
   "files": {
-    "main.css": "/Shareforchrist/static/css/main.4f345eae.chunk.css",
-    "main.js": "/Shareforchrist/static/js/main.46f139d6.chunk.js",
-    "main.js.map": "/Shareforchrist/static/js/main.46f139d6.chunk.js.map",
-    "runtime-main.js": "/Shareforchrist/static/js/runtime-main.b3ba27ac.js",
-    "runtime-main.js.map": "/Shareforchrist/static/js/runtime-main.b3ba27ac.js.map",
-    "static/css/2.7d2f2f6a.chunk.css": "/Shareforchrist/static/css/2.7d2f2f6a.chunk.css",
-    "static/js/2.c631fb5a.chunk.js": "/Shareforchrist/static/js/2.c631fb5a.chunk.js",
-    "static/js/2.c631fb5a.chunk.js.map": "/Shareforchrist/static/js/2.c631fb5a.chunk.js.map",
-    "index.html": "/Shareforchrist/index.html",
-    "precache-manifest.aa3673568783fe0df0033499cbea7b60.js": "/Shareforchrist/precache-manifest.aa3673568783fe0df0033499cbea7b60.js",
-    "service-worker.js": "/Shareforchrist/service-worker.js",
-    "static/css/2.7d2f2f6a.chunk.css.map": "/Shareforchrist/static/css/2.7d2f2f6a.chunk.css.map",
-    "static/css/main.4f345eae.chunk.css.map": "/Shareforchrist/static/css/main.4f345eae.chunk.css.map",
-    "static/js/2.c631fb5a.chunk.js.LICENSE.txt": "/Shareforchrist/static/js/2.c631fb5a.chunk.js.LICENSE.txt",
-    "static/media/个人灵修-By Eucalyp.png": "/Shareforchrist/static/media/个人灵修-By Eucalyp.7e14c668.png",
-    "static/media/家庭育儿-By Freepik.png": "/Shareforchrist/static/media/家庭育儿-By Freepik.17a364d2.png",
-    "static/media/数据查询-By DinosoftLabs.png": "/Shareforchrist/static/media/数据查询-By DinosoftLabs.b597abb2.png",
-    "static/media/科普文章-By Smashicons.png": "/Shareforchrist/static/media/科普文章-By Smashicons.13d6f305.png",
-    "static/media/问诊平台-By Good Ware.png": "/Shareforchrist/static/media/问诊平台-By Good Ware.4a9e82fa.png",
-    "static/media/防疫手册-By Smashicons.png": "/Shareforchrist/static/media/防疫手册-By Smashicons.2c49edfe.png"
+    "main.css": "/COVID-19-lychnia/static/css/main.4f345eae.chunk.css",
+    "main.js": "/COVID-19-lychnia/static/js/main.dc538ecd.chunk.js",
+    "main.js.map": "/COVID-19-lychnia/static/js/main.dc538ecd.chunk.js.map",
+    "runtime-main.js": "/COVID-19-lychnia/static/js/runtime-main.ac3a6fd5.js",
+    "runtime-main.js.map": "/COVID-19-lychnia/static/js/runtime-main.ac3a6fd5.js.map",
+    "static/css/2.7d2f2f6a.chunk.css": "/COVID-19-lychnia/static/css/2.7d2f2f6a.chunk.css",
+    "static/js/2.c631fb5a.chunk.js": "/COVID-19-lychnia/static/js/2.c631fb5a.chunk.js",
+    "static/js/2.c631fb5a.chunk.js.map": "/COVID-19-lychnia/static/js/2.c631fb5a.chunk.js.map",
+    "index.html": "/COVID-19-lychnia/index.html",
+    "precache-manifest.ff87f3d74069db376aebc8319e863481.js": "/COVID-19-lychnia/precache-manifest.ff87f3d74069db376aebc8319e863481.js",
+    "service-worker.js": "/COVID-19-lychnia/service-worker.js",
+    "static/css/2.7d2f2f6a.chunk.css.map": "/COVID-19-lychnia/static/css/2.7d2f2f6a.chunk.css.map",
+    "static/css/main.4f345eae.chunk.css.map": "/COVID-19-lychnia/static/css/main.4f345eae.chunk.css.map",
+    "static/js/2.c631fb5a.chunk.js.LICENSE.txt": "/COVID-19-lychnia/static/js/2.c631fb5a.chunk.js.LICENSE.txt",
+    "static/media/个人灵修-By Eucalyp.png": "/COVID-19-lychnia/static/media/个人灵修-By Eucalyp.7e14c668.png",
+    "static/media/家庭育儿-By Freepik.png": "/COVID-19-lychnia/static/media/家庭育儿-By Freepik.17a364d2.png",
+    "static/media/数据查询-By DinosoftLabs.png": "/COVID-19-lychnia/static/media/数据查询-By DinosoftLabs.b597abb2.png",
+    "static/media/科普文章-By Smashicons.png": "/COVID-19-lychnia/static/media/科普文章-By Smashicons.13d6f305.png",
+    "static/media/问诊平台-By Good Ware.png": "/COVID-19-lychnia/static/media/问诊平台-By Good Ware.4a9e82fa.png",
+    "static/media/防疫手册-By Smashicons.png": "/COVID-19-lychnia/static/media/防疫手册-By Smashicons.2c49edfe.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.b3ba27ac.js",
+    "static/js/runtime-main.ac3a6fd5.js",
     "static/css/2.7d2f2f6a.chunk.css",
     "static/js/2.c631fb5a.chunk.js",
     "static/css/main.4f345eae.chunk.css",
-    "static/js/main.46f139d6.chunk.js"
+    "static/js/main.dc538ecd.chunk.js"
   ]
 }
