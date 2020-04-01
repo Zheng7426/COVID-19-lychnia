@@ -16,7 +16,7 @@ import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 
 function App() {
   return (
-    <Router>
+    <Router basename="/COVID-19-lychnia">
       <Navbar />
       <Switch>
         <Route path="/" exact render={props => <Home />} />
