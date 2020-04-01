@@ -1,0 +1,42 @@
+/* style text */
+.lianxiwomen{
+    background-color: transparent;
+    text-align: center;
+    margin-top: 8em;
+    padding-bottom: 2em;
+}
+
+
+/*style inputs for button*/
+.stylebut{
+    background-color: brown;
+    border-radius: 1em;
+}
+ 
+.stylebut a{
+    color: antiquewhite;
+    font-family: inherit;
+}
+  
+  
+  /* Responsive layout - when the screen is less than 600px wide, make the two columns stack on top of each other instead of next to each other */
+  @media screen and (max-width: 600px) {
+    .column,
+    input[type="submit"] {
+      width: 100%;
+      margin-top: 0;
+    }
+    .header-title {
+      font-size: 28px;
+    }
+    .header-text {
+      font-size: 15px;
+    }
+    .about-text {
+      font-size: 15px;
+    }
+    .header-scripture {
+      font-size: 10px;
+    }
+    
+  }

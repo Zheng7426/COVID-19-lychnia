@@ -1,0 +1,124 @@
+* {
+    box-sizing: border-box;
+    font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+    /* font-family: 'Baskervville', serif; */
+  }
+
+  h1 {
+    font-size: 4em;
+  }
+  
+  .textstyle {
+    font-size: 2em;
+  }
+  img {
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  main {
+    text-align: center;
+    max-width: 850px;
+    margin-left: auto;
+    margin-right: auto;
+    align-items: center;
+    background-image: url("https://unsplash.com/photos/hDyO6rr3kqk");
+  }
+  
+  h3 {
+    margin-top: 3rem;
+  }
+ 
+  /* Style the container/contact section */
+  
+  .container {
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    padding: 10px;
+  }
+  
+  /* Create two columns that float next to eachother */
+  .column {
+    float: left;
+    width: 50%;
+    margin-top: 6px;
+    padding: 20px;
+  }
+  
+  /* Clear floats after the columns */
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+  
+  .about-us {
+    background-color: rgba(142, 192, 228, 0.3);
+    border-radius: 10px;
+    height: auto;
+    color: black;
+  }
+  .about-us a:link {
+    color: black;
+  }
+  .about-us a:active {
+    color: black;
+  }
+  .about-us a:visited {
+    color: black;
+  }
+  .about-text {
+    height: auto;
+    background-color: rgba(202, 198, 197, 0.6);
+    border-radius: 10px;
+    color: black;
+  }
+  .icon {
+    width: 60px;
+    height: 60px;
+  }
+  .icons {
+    width: 100px;
+    height: 100px;
+    background-color: rgba(202, 198, 197, 0.6);
+    border-radius: 50%;
+  }
+  
+  .edge-bot {
+    display: flex;
+    background-color: rgb(121, 67, 23);
+    color: antiquewhite;
+    text-align: center;
+    justify-content: center;
+  }
+  
+  /* Responsive layout - when the screen is less than 600px wide, make the two columns stack on top of each other instead of next to each other */
+  @media screen and (max-width: 600px) {
+    .column,
+    input[type="submit"] {
+      width: 100%;
+      margin-top: 0;
+    }
+    .header-title {
+      font-size: 28px;
+    }
+    .header-text {
+      font-size: 15px;
+    }
+    .about-text {
+      font-size: 15px;
+    }
+    .header-scripture {
+      font-size: 10px;
+    }
+    .icon {
+      width: 4em;
+      height: 4em;
+    }
+    .icons {
+      width: 6em;
+      height: 6em;
+      background-color: rgba(202, 198, 197, 0.6);
+      border-radius: 50%;
+    }
+  }
