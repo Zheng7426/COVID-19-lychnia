@@ -41,6 +41,12 @@
   height: 30px;
 }
 
+.search-result {
+  padding: 10px;
+  width: 80%;
+  height: 30vh;
+  overflow: scroll;
+}
 .Maquee-link {
   font-size: 18px;
 }
@@ -73,7 +79,14 @@
     max-width: auto;
   }
   .row {
+    font-size: 12px;
     margin: auto 0em auto 0em;
     padding: auto 0em auto 0em;
+  }
+  .search-result {
+    padding: 10px;
+    width: 80%;
+    height: 30vh;
+    overflow: scroll;
   }
 }

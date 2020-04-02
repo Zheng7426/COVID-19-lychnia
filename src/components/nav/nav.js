@@ -19,6 +19,15 @@ class Navbars extends Component {
     });
     console.log("result", this.state.query);
   };
+  handleKeyPress = event => {
+    if (event.key === "Enter") {
+      console.log("enter press here! ");
+      this.setState({
+        query: this.search.value
+      });
+      console.log("result", this.state.query);
+    }
+  };
   render() {
     return (
       <din>
@@ -91,6 +100,7 @@ class Navbars extends Component {
               <Button variant="outline-primary">
                 <Link
                   className="text-white-50"
+                  onKeyPress={this.handleKeyPress}
                   to={{ pathname: "/search", message: this.state.query }}
                 >
                   查找
