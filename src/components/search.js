@@ -8,7 +8,7 @@ class Search extends Component {
     let result = [];
     // eslint-disable-next-line
     this.state.data.map(t => {
-      if (t.title.indexOf(query) > 0) {
+      if (t.title.indexOf(query) >= 0) {
         return result.push(t);
       }
     });
