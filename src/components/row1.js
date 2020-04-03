@@ -10,7 +10,6 @@ class Row1 extends Component {
             {this.props.title}
           </a>
         </td>
-        <td>{this.props.date}</td>
       </tr>
     );
   }
