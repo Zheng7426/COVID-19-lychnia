@@ -489,6 +489,12 @@
     "date": "2020-03-31",
     "type": "kepuwenzhang"
   },
+  {
+    "title": "大夫在线 - 病人轻症期传染力最强",
+    "link": "https://mp.weixin.qq.com/s/-kZ3Kawtu47DLd9TRzN0uQ",
+    "date": "2020-04-03",
+    "type": "kepuwenzhang"
+  },
 
 
   {
@@ -672,6 +678,12 @@
     "type": "fangyishouce"
   },
   {
+    "title": "我是否有资格申请CERB？（申请资格明细）",
+    "link": "https://mp.weixin.qq.com/s/6aqtvUUNYPsDTo-wWZgNPw",
+    "date": "2020-04-01",
+    "type": "fangyishouce"
+  },
+  {
     "title": "病童医院信息【灯台团队译文】",
     "link": "https://storage.googleapis.com/hz_bucket/yiwen_10.pdf",
     "date": "2020-04-01",
@@ -741,6 +753,12 @@
     "title": "苹果和CDC一起开发的帮民众做新冠检测的程序（英文）",
     "link": "https://www.apple.com/covid19",
     "date": "2020-03-27",
+    "type": "wenzhenpingtai"
+  },
+  {
+    "title": "全球云问诊｜武汉医疗专家公益直播（加拿大站）",
+    "link": "https://live.xinhuaapp.com/xcy/reportlist.html?liveId=15858392957810&from=timeline&isappinstalled=0",
+    "date": "2020-04-03",
     "type": "wenzhenpingtai"
   },
 
